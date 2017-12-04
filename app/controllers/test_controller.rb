@@ -1,6 +1,6 @@
 class TestController < ApplicationController 
     def hello
-        @word = "helloWorld"
+        @word = "wangwangwang"
         puts @word
     end
 end 
